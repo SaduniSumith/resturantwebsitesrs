@@ -1,0 +1,20 @@
+resturant website srs
+- functional requirments:
+ 5 pages:
+have a home page, a menu, an about, and location page  contact page
+be informative, contain 10 pictures of products
+able to go from one page to another efficiantly
+have buttons that take the user to the desired page
+no alchol
+have black borders w/white text
+have a home page with a large image of a coffe/tea cup
+ave a border displaying buttons that take the user to the home page, the menu, the about page and the location page
+have an interactive map that allows the user to find their nearist location
+have an interactive menu that when the user hovers over the item
+
+non-functional requirments:
+ have a cohesive asthetic limited colour pallet
+ be astheticly pleasing
+ be fast, and easy to use
+ cafe- have a diverse menu
+ different menus for appitizers, salads,  drinks, pastries, cakes, etc 
